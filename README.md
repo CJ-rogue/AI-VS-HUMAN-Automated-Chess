@@ -9,7 +9,8 @@ This project was created by Christian Jhames De Los Reyes and Vincent Cerillo fo
 ## Documentation
 
 
-[Watch on YouTube](https://youtube.com/shorts/smxDBfMesxg?feature=share)
+[![Watch the video](https://img.youtube.com/vi/smxDBfMesxg/0.jpg)](https://youtube.com/shorts/smxDBfMesxg?feature=share)
+
 ![d7009e39-5257-4c57-8d4f-465d057ad33a](https://github.com/user-attachments/assets/3ad40425-9df7-495c-abe3-3cdd5b7b6525)
 ![492567480_685433063952398_1889414771577030598_n](https://github.com/user-attachments/assets/8cbedde7-0cef-45e8-8a37-dee5d2319c18)
 
